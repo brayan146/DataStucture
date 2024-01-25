@@ -25,6 +25,7 @@ public class Main {
             optionSelected = option.nextInt();
            // if (optionSelected == 1){
                 IManager manager = ManagerFactory.getManager(optionSelected);
+                manager.printMenu();
                 manager.run();
 
             //}else{
