@@ -1,4 +1,6 @@
 package org.example;
+import org.example.interfaces.IRunner;
+
 import java.util.Scanner;
 
 public class Main {
@@ -24,8 +26,7 @@ public class Main {
             }
             optionSelected = option.nextInt();
            // if (optionSelected == 1){
-                IManager manager = ManagerFactory.getManager(optionSelected);
-                manager.printMenu();
+                IRunner manager = RunnerFactory.getManager(optionSelected);
                 manager.run();
 
             //}else{
