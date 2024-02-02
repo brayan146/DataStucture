@@ -3,26 +3,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 [
 +proyect/src/main/java/org/example/Main.java,b\c\bca3c585db3ca5160738a6a3886f5d3f2b087428
-^
-.TowersOfHanoi/src/main/java/org/bjzz/Main.java,e\8\e842c90b187ee65a9cac9faa2cc1f2545536481d
-O
-TowersOfHanoi/TowersOfHanoi.iml,a\1\a1121ed7dbf123e0d137658f9d8b6f40276126f7
-`
-0TowersOfHanoi/src/main/java/org/bjzz/IStack.java,8\1\81cc15954302f3dff81f27b7c26d35a9001be707
-_
-/TowersOfHanoi2/src/main/java/org/bjzz/Main.java,b\8\b83539863fb168251d52aadd1da551bf0af439db
-F
-TowersOfHanoi2/pom.xml,a\c\acb3cf9b3d3df03e2073a97b60d6adfeedb226a0
-E
-TowersOfHanoi/pom.xml,5\4\54562a00491c30c1181b8bdc11feb8c78bf0735e
-`
-0TowersOfHanoi/src/main/java/org/bjzz/Stacks.java,c\1\c1cf8970dd293acd449e821aa4d2907b76ce12f6
-a
-1TowersOfHanoi2/src/main/java/org/bjzz/IStack.java,6\0\60592d33a7632e3eb5f436348c7f9cde9a20dbce
-a
-1TowersOfHanoi2/src/main/java/org/bjzz/Stacks.java,1\1\11e93a435417a1af0c9f9631a29a9e334655e0e8
-B
-TowersOfHanoi2.iml,8\9\8966ec2d076378c869f9c13f4ebcaf2999b8493a
 D
 TowerOfHanoi/pom.xml,4\0\40ce79ba29241f2bccd28396cf6f786ec706b43a
 ]

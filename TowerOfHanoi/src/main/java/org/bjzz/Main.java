@@ -4,7 +4,7 @@ package org.bjzz;
 public class Main {
 
     public static void main(String[] args) {
-        int numDiscos = 3; // Número de discos en la torre de Hanoi
+        int numDiscos = 4; // Número de discos en la torre de Hanoi
         resolverTorreDeHanoi(numDiscos);
     }
 
@@ -19,14 +19,19 @@ public class Main {
         }
 
         // Si el número de discos es par, intercambiar destino y auxiliar
-        if (numDiscos % 2 == 0) {
+        if (numDiscos % 2 == 1) {
             Stacks<Integer> temp = torreDestino;
             torreDestino = torreAuxiliar;
             torreAuxiliar = temp;
-        }
+        }  else {
+        // Si el número de discos es impar, intercambiar origen y auxiliar
+        Stacks<Integer> temp = torreOrigen;
+        torreOrigen = torreAuxiliar;
+        torreAuxiliar = temp;
+    }
 
         // Número total de movimientos
-        int totalMovimientos = (int) (Math.pow(2, numDiscos) - 1);
+        int totalMovimientos = (int) (Math.pow(2, numDiscos) );
 
         // Itera sobre el número total de movimientos
         for (int i = 1; i <= totalMovimientos; i++) {

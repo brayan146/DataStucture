@@ -7,11 +7,13 @@
         <option value="$PROJECT_DIR$/proyect/pom.xml" />
         <option value="$PROJECT_DIR$/TowersOfHanoi2/pom.xml" />
         <option value="$PROJECT_DIR$/TowerOfHanoi/pom.xml" />
+        <option value="$PROJECT_DIR$/corredor/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/TowersOfHanoi2/pom.xml" />
+        <option value="$PROJECT_DIR$/corredor/pom.xml" />
       </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
