@@ -7,31 +7,33 @@ public class LinkedListStack<T> implements IStack<T>{
     private LinkedList<T> list = new LinkedList<T>();
     @Override
     public int size() {
-        return 0;
+        return list.size();
     }
 
     @Override
     public boolean isEmpty() {
-        return false;
+        return list.isEmpty();
     }
 
     @Override
     public void push(T t) {
-
+        list.addFirst(t);
     }
 
     @Override
     public T top() {
-        return null;
+        return list.first().data;
     }
 
     @Override
     public T pop() {
-        return null;
+        T data = list.first().data;
+        list.removeFirst();
+        return data;
     }
 
     @Override
     public void printStack() {
-
+        list.print();
     }
 }

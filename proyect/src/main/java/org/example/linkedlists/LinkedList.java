@@ -25,20 +25,22 @@ public class LinkedList <T> implements ILinkedList<T> {
 
     @Override
     public Node<T> first() {
+        if (isEmpty()) {
+            return null;
+        }
         return head;
     }
 
     @Override
     public Node<T> last() {
+        if (isEmpty()) {
+            return null;
+        }
         Node<T> current = head;
         while (current.next != null) {
-            if (current.next == null) {
-                return current;
-            }
             current = current.next;
         }
-
-        return null;
+        return current;
     }
 
     @Override
@@ -67,12 +69,15 @@ public class LinkedList <T> implements ILinkedList<T> {
 
     @Override
     public void removeFirst() {
-
+        if (isEmpty()) {
+            return;
+        }
+        head = head.next;
     }
     public void print(){
         Node<T> current = head;
         while (current != null){
-            System.out.println(current.data);
+            System.out.print(current.data+" ");
             current = current.next;
         }
     }

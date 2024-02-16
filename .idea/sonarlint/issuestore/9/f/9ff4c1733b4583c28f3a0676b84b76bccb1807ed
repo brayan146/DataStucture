@@ -1,0 +1,56 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ç§¸8œƒ½ôÚ1
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÏÏ8ƒ½ôÚ1
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Ã“ª8ƒ½ôÚ1
+†
+java:S1192f"dDefine a constant instead of duplicating this literal "Removed first element from the list" 3 times.(¶ ¶âúÿÿÿÿ8¼Ö½ôÚ1
+|
+java:S1192"ZDefine a constant instead of duplicating this literal "Enter the number to add: " 6 times.(…·ãÖüÿÿÿÿ8ƒ½ôÚ1
+u
+java:S1192"XDefine a constant instead of duplicating this literal "Enter the number to add" 6 times.(°”ø8ƒ½ôÚ1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "Added to the list" 4 times.(«­‡¦ıÿÿÿÿ8ƒ½ôÚ1
+–
+java:S1192"tDefine a constant instead of duplicating this literal "That's not a valid option!. Please enter a Integer." 6 times.(¾œô»øÿÿÿÿ8ƒ½ôÚ1
+G	java:S106"+Replace this use of System.out by a logger.(°”ø8¨ƒ½ôÚ1
+L	java:S106"+Replace this use of System.out by a logger.(…·ãÖüÿÿÿÿ8ªƒ½ôÚ1
+L	java:S106"+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8ªƒ½ôÚ1
+L	java:S106"+Replace this use of System.out by a logger.(«­‡¦ıÿÿÿÿ8«ƒ½ôÚ1
+G	java:S106"+Replace this use of System.out by a logger.(°”ø8«ƒ½ôÚ1
+L	java:S106""+Replace this use of System.out by a logger.(…·ãÖüÿÿÿÿ8«ƒ½ôÚ1
+L	java:S106#"+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8«ƒ½ôÚ1
+L	java:S106("+Replace this use of System.out by a logger.(«­‡¦ıÿÿÿÿ8«ƒ½ôÚ1
+G	java:S106,"+Replace this use of System.out by a logger.(°”ø8«ƒ½ôÚ1
+L	java:S106/"+Replace this use of System.out by a logger.(…·ãÖüÿÿÿÿ8«ƒ½ôÚ1
+L	java:S1060"+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8¬ƒ½ôÚ1
+L	java:S1065"+Replace this use of System.out by a logger.(«­‡¦ıÿÿÿÿ8¬ƒ½ôÚ1
+G	java:S106;"+Replace this use of System.out by a logger.(°”ø8¬ƒ½ôÚ1
+L	java:S106>"+Replace this use of System.out by a logger.(…·ãÖüÿÿÿÿ8¬ƒ½ôÚ1
+L	java:S106?"+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8¬ƒ½ôÚ1
+G	java:S106G"+Replace this use of System.out by a logger.(°”ø8­ƒ½ôÚ1
+L	java:S106J"+Replace this use of System.out by a logger.(…·ãÖüÿÿÿÿ8­ƒ½ôÚ1
+L	java:S106K"+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8­ƒ½ôÚ1
+L	java:S106M"+Replace this use of System.out by a logger.(«­‡¦ıÿÿÿÿ8­ƒ½ôÚ1
+L	java:S106Q"+Replace this use of System.out by a logger.(«­‡¦ıÿÿÿÿ8­ƒ½ôÚ1
+G	java:S106U"+Replace this use of System.out by a logger.(°”ø8®ƒ½ôÚ1
+L	java:S106X"+Replace this use of System.out by a logger.(…·ãÖüÿÿÿÿ8®ƒ½ôÚ1
+L	java:S106Y"+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8®ƒ½ôÚ1
+L	java:S106^"+Replace this use of System.out by a logger.(«­‡¦ıÿÿÿÿ8®ƒ½ôÚ1
+L	java:S106f"+Replace this use of System.out by a logger.(¶ ¶âúÿÿÿÿ8®ƒ½ôÚ1
+L	java:S106k"+Replace this use of System.out by a logger.(¶ ¶âúÿÿÿÿ8¯ƒ½ôÚ1
+L	java:S106p"+Replace this use of System.out by a logger.(¶ ¶âúÿÿÿÿ8¯ƒ½ôÚ1
+G	java:S106w"+Replace this use of System.out by a logger.(±áô8¯ƒ½ôÚ1
+L	java:S106{"+Replace this use of System.out by a logger.(Ã©İÅüÿÿÿÿ8ÍÖ½ôÚ1
+G	java:S106"+Replace this use of System.out by a logger.(¡§¥ñ8ÍÖ½ôÚ1
+M	java:S106†"+Replace this use of System.out by a logger.(İ˜½…ùÿÿÿÿ8ÎÖ½ôÚ1
+M	java:S106Š"+Replace this use of System.out by a logger.(ÍºÇÛûÿÿÿÿ8ÎÖ½ôÚ1
+M	java:S106"+Replace this use of System.out by a logger.(ìî«¾øÿÿÿÿ8ÎÖ½ôÚ1
+M	java:S106–"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¦«¾ôÚ1
+M	java:S106›"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¦«¾ôÚ1
+M	java:S106 "+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8œ×¾ôÚ1
+h
+java:S1128"FRemove this unused import 'java.util.IllegalFormatCodePointException'.(¹®öÉüÿÿÿÿ8¯ƒ½ôÚ1

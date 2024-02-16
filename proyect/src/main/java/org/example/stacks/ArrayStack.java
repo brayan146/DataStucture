@@ -16,7 +16,7 @@ public class ArrayStack <T> implements IStack<T> {
 
     @Override
     public int size() {
-        return s+1;
+        return s + 1;
     }
 
     @Override
@@ -61,7 +61,8 @@ public class ArrayStack <T> implements IStack<T> {
             return;
         }
         for (int i = size()-1; i>= 0; i--) {
-            System.out.println(array[i]);
+            System.out.print(array[i]+" ");
         }
     }
+
 }

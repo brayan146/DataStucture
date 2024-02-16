@@ -1,0 +1,12 @@
+
+L	java:S106M"+Replace this use of System.out by a logger.(ñÒ•ùÿÿÿÿ8ì²ÆØÙ1
+L	java:S106P"+Replace this use of System.out by a logger.(ìáÇ¢øÿÿÿÿ8ì²ÆØÙ1
+G	java:S106R"+Replace this use of System.out by a logger.(ñ®ªš8ì²ÆØÙ1
+L	java:S106U"+Replace this use of System.out by a logger.(ìáÇ¢øÿÿÿÿ8í²ÆØÙ1
+G	java:S106W"+Replace this use of System.out by a logger.(‡Êƒ8í²ÆØÙ1
+L	java:S106Z"+Replace this use of System.out by a logger.(ìáÇ¢øÿÿÿÿ8í²ÆØÙ1
+Y	java:S125·"<This block of commented-out lines of code should be removed.(«ı¿8ş›Á±Ù1
+X
+java:S1128"6Remove this unused import 'java.sql.ClientInfoStatus'.(¥¥éÀüÿÿÿÿ8şâÃØÙ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8şâÃØÙ1

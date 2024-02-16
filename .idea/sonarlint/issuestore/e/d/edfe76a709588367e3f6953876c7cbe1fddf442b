@@ -1,0 +1,18 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¦ƒşÿÿÿÿ8õ¤¥Ù1
+G	java:S106"+Replace this use of System.out by a logger.(©ë»†8õ¤¥Ù1
+G	java:S106"+Replace this use of System.out by a logger.(”¬—ê8ö¤¥Ù1
+L	java:S106"+Replace this use of System.out by a logger.(º†¾­øÿÿÿÿ8ö¤¥Ù1
+L	java:S106"+Replace this use of System.out by a logger.(ô„ìóÿÿÿÿÿ8ö¤¥Ù1
+G	java:S106"+Replace this use of System.out by a logger.(©ë»†8÷¤¥Ù1
+L	java:S106!"+Replace this use of System.out by a logger.(ß‰Å…ùÿÿÿÿ8ù¤¥Ù1
+L	java:S106""+Replace this use of System.out by a logger.(¾œô»øÿÿÿÿ8ù¤¥Ù1
+o
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ïŒó¨8ú¤¥Ù1
+G	java:S106*"+Replace this use of System.out by a logger.(à£”8ı¤¥Ù1
+G	java:S106+"+Replace this use of System.out by a logger.(¿ó¶è8ı¤¥Ù1
+G	java:S106,"+Replace this use of System.out by a logger.(øàüà8ı¤¥Ù1
+G	java:S106-"+Replace this use of System.out by a logger.(öãÔ8ş¤¥Ù1
+G	java:S106."+Replace this use of System.out by a logger.(™”ı˜8ş¤¥Ù1
+F	java:S106/"+Replace this use of System.out by a logger.(âú…q8ş¤¥Ù1
+G	java:S1060"+Replace this use of System.out by a logger.(ÁŸƒÚ8ş¤¥Ù1
